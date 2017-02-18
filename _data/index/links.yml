@@ -1,0 +1,18 @@
+# links section data
+- last_name: Iwaihara Lab
+  first_name:
+  desc: Laboratory that I'm studying in. 
+  website: http://www.iwaihara-lab.org/pub/
+  email: suwenbo@toki.waseda.jp
+
+- last_name: GitHub
+  first_name: suwenbo
+  desc: My GitHub page
+  website: https://github.com/suwenbo1996520
+  email: suwenbo@toki.waseda.jp
+
+- last_name: Email
+  first_name: 
+  desc: xiaosu1996520@163.com
+  website: http://mail.163.com/
+  email: xiaosu1996520@163.com

@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: English, Java, HTML5, Python, Machine Learing, Data Mining, Japanese
+percentage: 80, 80, 65, 80, 90, 70, 50

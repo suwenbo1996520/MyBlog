@@ -1,0 +1,44 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Southeast University
+    i18n: company_a
+  desc:
+    detail: I studied at Southeast University to get a bachelor degree.
+    i18n: company_a_desc
+  date:
+    detail: 2013.8~2016.9
+    i18n: company_a_date
+  job:
+    detail: Undergraduate tudent
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Nanjing Haishanda Information Science & Technology Co.,Ltd.
+    i18n: company_b
+  desc:
+    detail: I worked in the company as an intern.
+    i18n: company_b_desc
+  date:
+    detail: 2016.7~2016.9
+    i18n: company_b_date
+  job:
+    detail: Front-end Web developer
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Waseda University
+    i18n: company_b
+  desc:
+    detail: I'm studying at Waseda University in Japan to get a master degree.
+    i18n: company_b_desc
+  date:
+    detail: 2016.9~2018.7
+    i18n: company_b_date
+  job:
+    detail: Postgraduate student
+    i18n: company_b_job
+  icon: fa-plus-square
+

@@ -1,0 +1,21 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: My blog
+  i18n: jalpc
+  gh_user: suwenbo1996520
+  repo: MyBlog
+  img: /static/assets/img/landing/jekyll.png
+  desc: This is a small blog website I bulit for myself based on Jekyll and GitHub pages.
+
+- name: LMS
+  i18n: leetcode
+  gh_user: suwenbo1996520
+  repo: LMS
+  img: /static/assets/img/landing/LMS.png
+  desc: This is a small project on Theory on Object Oriented study. This system is specially designed for the library managers to improve the working efficiency. This system is designed as a web application, and can run on the web.
+
+- name: SPDMP
+  i18n: familycode
+  img: /static/assets/img/landing/haishanda.jpg
+  desc: Sandemaring Product Data Management Platform. This is a web system of Product Management. It’s one of my project achievements during my intern experience in Nanjing Haishanda Information Science & Technology Co.,Ltd. My work is mainly about font-end developing in this program.
