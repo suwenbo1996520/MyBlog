@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenbo's Website</title>
+    <description>suwenbo's blog,use Jekyll and github pages.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 27 Feb 2017 23:52:52 +0900</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2017 23:52:52 +0900</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>My weekly conclusion1</title>
+        <description>&lt;p&gt;Actually, I don’t know what to write in this kind of small article or diary, but I do want to write something in English. I love to speak English and have a very strong desire to speak it well. English is so important a tool that I think my future life will depend on it. It’s lucky that I like English because if I am interested in something, I will have motivation to spend time on it and try to do it well. English is a very interesting and beautiful language. I feel good while trying to speak in English.&lt;/p&gt;
+
+&lt;p&gt;I have tried a lot of ways to learn English well so far, but the problem is that most methods seem to be useless. I think the main reason is that I can hardly commit to good methods after finding them. I’m too lazy. Starting this week, I want to make some plans for my English learning and try my best to persist in that&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Since I have forgotten many basic words and grammar, I decided to learn English from the very beginning. I found some videos about the New Concept of English on a website. I want to watch all of them in order to have a systematic understanding of English grammar.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Another way to improve my English is by talking to someone in YY channel every night. There are many good English speakers there, although most of them are Chinese. But there is one problem while using this method. When I talk to people such as native English speakers, I can’t catch up with them and it is hard for me to join their conversation, which makes me nervous. When I talk to someone who doesn’t speak English well, the embarrassing situation may occur that both of us don’t know what to talk about due to our limited language skills. So the critical thing for me now is to improve my English.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I also decided to read novels this week. Reading is always a good habit. Forming a habit to read books usually is difficult for me, because I hadn’t read much in the past. I’m starting to read the book “The Great Gatsby.”. It’s a good start and I wish I could stick with it.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Well, that’s all I have to say about this week. As for next week, it may be a good idea for me to write something about my feelings on some English books and movies.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 Jan 2017 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/english/2017/01/31/My-weekly-conclusion1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/english/2017/01/31/My-weekly-conclusion1.html</guid>
+        
+        <category>English</category>
+        
+        <category>weekly conclusion</category>
+        
+        
+        <category>English</category>
+        
+      </item>
+    
+      <item>
+        <title>3 Steps (2 minutes) to Setup Your Personal Website with Jalpc</title>
+        <description>&lt;p&gt;Everyone wants to have a personal website, you can display your infomation to public, post blogs and make friends. If you are CS engineer, haveing a self website will benefit your interview.&lt;/p&gt;
+
+&lt;p&gt;So, if you like this website &lt;a href=&quot;https://jarrekk.github.io/Jalpc/&quot;&gt;https://jarrekk.github.io/Jalpc/&lt;/a&gt; or &lt;a href=&quot;http://www.jack003.com&quot;&gt;http://www.jack003.com&lt;/a&gt; and are willing to have a website, here is a way to build your website in 3 steps(2 minutes). Following are steps to setup your website:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fork &lt;a href=&quot;https://github.com/jarrekk/Jalpc&quot;&gt;this project – Jalpc&lt;/a&gt; at &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. If you want to edit website at github, do it as following gif or clone forked repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git@github.com:github_username/Jalpc.git&lt;/code&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;!-- ![edit](/static/assets/img/blog/3steps/edit.gif) --&gt;
+ &lt;img src=&quot;/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enter into repository directory and edit following file list:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;: edit ‘Website settings’, ‘author’, ‘comment’ and ‘analytics’ items.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;_data/landing.yml&lt;/strong&gt;: custom sections of index page.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;_data/index/&lt;/strong&gt;: edit sections’ data to yours at index page, please notice comment at each file.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;_data/blog.yml&lt;/strong&gt;: edit navbar(categories) of blog page, if you have different/more blog page, copy &lt;code class=&quot;highlighter-rouge&quot;&gt;blog/python.html&lt;/code&gt; and change it to your category HTML file, and edit &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;/python/&lt;/strong&gt; to your category name at items &lt;strong&gt;title&lt;/strong&gt; and &lt;strong&gt;permalink&lt;/strong&gt;, make sure title is the same as permalink but capitalized first letter(except HTML).&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;CNAME&lt;/strong&gt;: If you wanna release website at your own domain name: edit it and create &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch; if you want to use &lt;em&gt;github_username.github.io&lt;/em&gt;: leave it blank.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Push changes to your github repository and view your website, done!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;From now on, you can post your blog to this website by creating md files at &lt;code class=&quot;highlighter-rouge&quot;&gt;post/&lt;/code&gt; directory and push it to GitHub, you can clear files at this directory before you post blogs.&lt;/p&gt;
+
+&lt;p&gt;If you like this repository, I appreciate you star this repository. Please don’t hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Jan 2017 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/html/2017/01/31/3-steps-to-setup-website-with-Jalpc-%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC.html</link>
+        <guid isPermaLink="true">http://localhost:4000/html/2017/01/31/3-steps-to-setup-website-with-Jalpc-%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC.html</guid>
+        
+        <category>Jalpc</category>
+        
+        <category>Jekyll</category>
+        
+        
+        <category>HTML</category>
+        
+      </item>
+    
+      <item>
+        <title>3 Steps (2 minutes) to Setup Your Personal Website with Jalpc</title>
+        <description>&lt;p&gt;Everyone wants to have a personal website, you can display your infomation to public, post blogs and make friends. If you are CS engineer, haveing a self website will benefit your interview.&lt;/p&gt;
+
+&lt;p&gt;So, if you like this website &lt;a href=&quot;https://jarrekk.github.io/Jalpc/&quot;&gt;https://jarrekk.github.io/Jalpc/&lt;/a&gt; or &lt;a href=&quot;http://www.jack003.com&quot;&gt;http://www.jack003.com&lt;/a&gt; and are willing to have a website, here is a way to build your website in 3 steps(2 minutes). Following are steps to setup your website:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fork &lt;a href=&quot;https://github.com/jarrekk/Jalpc&quot;&gt;this project – Jalpc&lt;/a&gt; at &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;. If you want to edit website at github, do it as following gif or clone forked repository. &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git@github.com:github_username/Jalpc.git&lt;/code&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;!-- ![edit](/static/assets/img/blog/3steps/edit.gif) --&gt;
+ &lt;img src=&quot;/static/assets/img/blog/3steps/edit.gif&quot; width=&quot;75%&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enter into repository directory and edit following file list:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;: edit ‘Website settings’, ‘author’, ‘comment’ and ‘analytics’ items.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;_data/landing.yml&lt;/strong&gt;: custom sections of index page.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;_data/index/&lt;/strong&gt;: edit sections’ data to yours at index page, please notice comment at each file.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;_data/blog.yml&lt;/strong&gt;: edit navbar(categories) of blog page, if you have different/more blog page, copy &lt;code class=&quot;highlighter-rouge&quot;&gt;blog/python.html&lt;/code&gt; and change it to your category HTML file, and edit &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;/python/&lt;/strong&gt; to your category name at items &lt;strong&gt;title&lt;/strong&gt; and &lt;strong&gt;permalink&lt;/strong&gt;, make sure title is the same as permalink but capitalized first letter(except HTML).&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;CNAME&lt;/strong&gt;: If you wanna release website at your own domain name: edit it and create &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch; if you want to use &lt;em&gt;github_username.github.io&lt;/em&gt;: leave it blank.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Push changes to your github repository and view your website, done!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;From now on, you can post your blog to this website by creating md files at &lt;code class=&quot;highlighter-rouge&quot;&gt;post/&lt;/code&gt; directory and push it to GitHub, you can clear files at this directory before you post blogs.&lt;/p&gt;
+
+&lt;p&gt;If you like this repository, I appreciate you star this repository. Please don’t hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 Jan 2017 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/linux/2017/01/31/3-steps-to-setup-website-with-Jalpc-%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC-(2).html</link>
+        <guid isPermaLink="true">http://localhost:4000/linux/2017/01/31/3-steps-to-setup-website-with-Jalpc-%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC-(2).html</guid>
+        
+        <category>Jalpc</category>
+        
+        <category>Jekyll</category>
+        
+        
+        <category>Linux</category>
+        
+      </item>
+    
+  </channel>
+</rss>
