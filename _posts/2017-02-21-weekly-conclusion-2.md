@@ -19,3 +19,4 @@ Many people believe that material wealth alone can bring that dream to fruition.
 Well, that's all I have to say about this week. As forto next week, it may be a good idea for me to writing write something about my feelings onf some English books and movies.
 
 ![theGreatGatsby](http://om34k6iz4.bkt.clouddn.com/theGreatGatsby.jpg)
+	
